@@ -3,7 +3,7 @@
     "url": "http://download.sysinternals.com/files/Ctrl2Cap.zip",
     "hash": "2d8c06374da140beda79ac1940ab2b06a56a9af182dba70a6338313d768a2ac2",
 
-    "##": "(depends ~ shortcutsは省略しています。)"
+    "##": "(depends ~ shortcutsは省略しています。)",
     "depends": [
         "sudo"
     ],
